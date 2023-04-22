@@ -1,1 +1,3 @@
-"# Bank-Customer-Churn-Modelling-YBI" 
+# Bank-Customer-Churn-Modelling
+
+To predict whether the customer will stay or leave the bank
